@@ -3,6 +3,7 @@ package me.nologic.xmfw;
 import me.nologic.xmfw.fragments.abstractfragment.AbstractPluginFragment;
 import java.util.Random;
 
+import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class ChristmasFireworks extends JavaPlugin {
