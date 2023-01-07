@@ -30,7 +30,8 @@ public class ChristmasFireworks extends JavaPlugin {
         this.saveDefaultConfig();
         AbstractPluginFragment.Fragment.enableFragments();
     }
-    
+
+    // Test commit
     public void onDisable() {
         AbstractPluginFragment.Fragment.disableFragments();
     }
