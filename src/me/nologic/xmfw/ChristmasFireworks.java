@@ -28,7 +28,6 @@ public class ChristmasFireworks extends JavaPlugin {
     
     public void onEnable() {
         ChristmasFireworks.plugin = this;
-        Bukkit.getServer();
         this.random = new Random();
         this.saveDefaultConfig();
         AbstractPluginFragment.Fragment.enableFragments();
